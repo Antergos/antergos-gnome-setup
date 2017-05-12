@@ -1,2 +1,2 @@
-# antergos-gnome-setup
-Default Setup for Antergos Gnome
+# antergos-gsettings
+Default Setup for Antergos GTK3 Desktops
