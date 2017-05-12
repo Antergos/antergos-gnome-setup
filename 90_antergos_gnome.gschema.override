@@ -12,11 +12,8 @@ list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9']
 [org.gnome.desktop.background]
 picture-uri='file:///usr/share/antergos/wallpapers/antergos-wallpaper.png'
 
-[org.gnome.desktop.input-sources]
-sources=[('xkb','us')]
-
 [org.gnome.desktop.interface]
-clock-format='12h'
+clock-format='24h'
 clock-show-date=true
 clock-show-seconds=false
 gtk-theme='Numix-Frost-Light'
@@ -44,4 +41,4 @@ show-create-link=true
 
 [org.gnome.shell]
 enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'status-menu-buttons@dev.antergos.com', 'dash-to-dock@micxgx.gmail.com']
-favorite-apps=['nautilus.desktop', 'gnome-terminal.desktop', '@CN_BROWSER@.desktop', 'pidgin.desktop', 'gnome-music.desktop']
+favorite-apps=['nautilus.desktop', 'gnome-terminal.desktop', 'chromium.desktop', 'gnome-music.desktop', 'pamac.desktop']
