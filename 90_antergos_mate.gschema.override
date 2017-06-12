@@ -150,7 +150,7 @@ panel-right-stick=true
 locked=true
 
 [org.mate.peripherals-keyboard]
-numlock-state='on'
+numlock-state='off'
 remember-numlock-state=true
 
 [org.mate.peripherals-touchpad]
