@@ -4,12 +4,14 @@ picture-uri='file:///usr/share/antergos/wallpapers/antergos-wallpaper.png'
 [org.cinnamon.desktop.interface]
 gtk-theme='Numix-Frost-Light'
 icon-theme='Numix-Square'
+keyboard-layout-show-flags=true
 
 [org.cinnamon.desktop.wm.preferences]
 theme='Numix-Frost-Light'
 
 [org.cinnamon.settings-daemon.peripherals.touchpad]
-scroll-method='two-finger-scrolling'
+vertical-two-finger-scrolling=true
+horizontal-two-finger-scrolling=true
 tap-to-click=true
 touchpad-enabled=true
 
